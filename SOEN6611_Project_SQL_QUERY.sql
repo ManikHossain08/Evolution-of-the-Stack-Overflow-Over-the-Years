@@ -878,8 +878,3 @@ group by a.Years,a.Score,a.QuestionsCount
 
 
 
-
-------------------- query bank on SO ---------------------
- 
-Create  table :https://data.stackexchange.com/stackoverflow/query/466/most-controversial-posts-on-the-site
-https://data.stackexchange.com/stackoverflow/query/987178/accepted-answer-rate-per-tag
