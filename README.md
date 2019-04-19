@@ -10,8 +10,9 @@ Here we will describe how we collect the dataset that we used to answer the rese
 # SO Data Dump Link
 https://archive.org/details/stackexchange 
 
-# SQL Query Link  
-https://github.com/MMH08/SOEN6611_Project/blob/master/SOEN6611_Project_SQL_QUERY.sql 
+# Source Code 
+- SQL Query: https://github.com/MMH08/SOEN6611_Project/blob/master/SOEN6611_Project_SQL_QUERY.sql 
+- R Code: https://github.com/MMH08/SOEN6611_Project/blob/master/SOEN-6611_Project_Figues_InR_.R
 
 # Gathered Data Link 
 - For RQ1 : https://docs.google.com/spreadsheets/d/1bp7eHWNyihg-0c2lzmGNUNiUTMTU2xtSmUUnL3X5GPI/edit#gid=0
