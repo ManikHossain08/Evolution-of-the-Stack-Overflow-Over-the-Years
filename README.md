@@ -17,6 +17,6 @@ https://github.com/MMH08/SOEN6611_Project/blob/master/SOEN6611_Project_SQL_QUERY
  - For RQ1 : https://docs.google.com/spreadsheets/d/1bp7eHWNyihg-0c2lzmGNUNiUTMTU2xtSmUUnL3X5GPI/edit#gid=0        
  - For RQ2 : https://docs.google.com/spreadsheets/d/1HJNJs8nkkx_EjWdmdp_-9YeBfRcJhM-rp9h4XM-0O3I/edit#gid=0
 
-# Plan & Progress for this Project with Professors (Online Doc)
+# Plan & Progress with Professors, Online Doc
  - Version 1 : https://docs.google.com/document/d/16N48z7RVMObt5vpl18Cxyv5L_asDxR2U2OhoLcsWzBA/edit
  - Version 2 : https://docs.google.com/document/d/1pdOeoj74PQR93KLjTcNNqiST0n-WPXuGlUSYdEoKmNg/edit 
