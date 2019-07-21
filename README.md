@@ -10,10 +10,5 @@ Here we will describe how we collect the dataset that we used to answer the rese
 - Data Dump download: https://archive.org/details/stackexchange 
 - Stack Exchange Data Explorer: https://data.stackexchange.com/stackoverflow/query/new
 
-# Source Code 
-- SQL Query: https://github.com/MMH08/SOEN6611_Project/blob/master/SOEN6611_Project_SQL_QUERY.sql 
-- R Code: https://github.com/MMH08/SOEN6611_Project/blob/master/SOEN-6611_Project_Figues_InR_.R
-
-# Gathered Data Link 
-- For RQ1 : https://docs.google.com/spreadsheets/d/1bp7eHWNyihg-0c2lzmGNUNiUTMTU2xtSmUUnL3X5GPI/edit#gid=0
-- For RQ2 : https://docs.google.com/spreadsheets/d/1HJNJs8nkkx_EjWdmdp_-9YeBfRcJhM-rp9h4XM-0O3I/edit#gid=0
+# Concern:
+- we keep this project privete as our research did not finised yet.
